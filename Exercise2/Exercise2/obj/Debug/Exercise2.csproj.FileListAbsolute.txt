@@ -1,0 +1,6 @@
+V:\SW\Csharp\Exercise2\Exercise2\bin\Debug\Exercise2.exe.config
+V:\SW\Csharp\Exercise2\Exercise2\bin\Debug\Exercise2.exe
+V:\SW\Csharp\Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+V:\SW\Csharp\Exercise2\Exercise2\obj\Debug\Exercise2.csprojResolveAssemblyReference.cache
+V:\SW\Csharp\Exercise2\Exercise2\obj\Debug\Exercise2.exe
+V:\SW\Csharp\Exercise2\Exercise2\obj\Debug\Exercise2.pdb
